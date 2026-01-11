@@ -1,4 +1,4 @@
-import Background from '../assets/images/background.jpg'
+import Background from '../assets/images/Background.jpg'
 
 import { useNavigate } from 'react-router-dom'
 
