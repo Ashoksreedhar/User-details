@@ -1,4 +1,4 @@
-import Background from '../assets/images/Background.jpg'
+
 
 function About() {
     return (
